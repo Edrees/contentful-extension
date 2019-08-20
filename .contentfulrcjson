@@ -1,0 +1,6 @@
+{
+  "managementToken": "ACCESS_TOKEN",
+  "activeSpaceId": "SPACEID",
+  "activeEnvironmentId": "master",
+  "host": "api.contentful.com"
+}
